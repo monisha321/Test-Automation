@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Automation">
+	<test name="Scenario1">
+		<classes>
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo1"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo2"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo3"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo4"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo5"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo6"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo7"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo8"></class>
+			
+			<class name="com.sgteating.assgnDataProviderTestNG.Demo9"></class>
+
+
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testing">
+	<test name="Scenarios">
+		<classes>
+			<class name="com.sgteating.assgnTestNG.Demo1"></class>
+			<class name="com.sgteating.assgnTestNG.Demo2"></class>
+			
+			<class name="com.sgteating.assgnTestNG.Demo3"></class>
+			<class name="com.sgteating.assgnTestNG.Demo4"></class>
+			<class name="com.sgteating.assgnTestNG.Demo5"></class>
+			<class name="com.sgteating.assgnTestNG.Demo6"></class>
+			<class name="com.sgteating.assgnTestNG.Demo7"></class>
+			<class name="com.sgteating.assgnTestNG.Demo8"></class>
+			<class name="com.sgteating.assgnTestNG.Demo9"></class>
+
+
+		</classes>
+	</test>
+</suite>
